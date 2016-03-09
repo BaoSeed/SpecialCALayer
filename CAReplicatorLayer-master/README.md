@@ -1,0 +1,3 @@
+# CAReplicatorLayer
+重复图层（Repeating Layers）
+CAReplicatorLayer的目的是为了高效生成许多相似的图层。它会绘制一个或多个图层的子图层，并在每个复制体上应用不同的变换。
